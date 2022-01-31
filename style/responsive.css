@@ -1,0 +1,35 @@
+@media screen and (max-width: 700px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .botao{
+        margin-top: 5px;
+        width: 190px;
+        height: 60px;
+    }
+
+    header nav a{
+        text-decoration: none;
+        color: #AAA;
+        margin-top: 0px;
+    }
+    header .logo{
+        margin-left: 5px;
+        margin-bottom: 30px;
+        color: var(--vermelho);
+        font-family: 'Arial Black', Times;
+        font-size: 40px;
+    }
+    header .container{
+        height: 70px;
+    }
+
+}
+
+@media screen and (min-width: 100px){
+    .descricao{
+        width: 50%;
+    }
+}
