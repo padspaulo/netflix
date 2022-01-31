@@ -5,4 +5,4 @@
 # Modo de uso
   * Fazer download do directório utilizando git clone 
   * Utilizar ide VsCode ou outro de mais agrado
-  * Utilizar o live server disponibilido como extensão do Vscode.
+  * Utilizar o live server disponibilizado como extensão do Vscode.
